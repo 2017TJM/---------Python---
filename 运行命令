@@ -1,0 +1,2 @@
+set DATABASE_URL=mysql+pymysql://root:123456@127.0.0.1:3306/sales & D:\sales_venv\Scripts\python -m uvicorn app.main:app --reload --host 127.0.0.1 --port 8000
+set DATABASE_URL=sqlite:///./local.db & D:\sales_venv\Scripts\python -m uvicorn app.main:app --reload --host 127.0.0.1 --port 8000

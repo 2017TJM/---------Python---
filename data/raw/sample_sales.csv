@@ -1,0 +1,11 @@
+date,region,product,amount,channel
+2025-01-01,North,Widget A,120.5,Online
+2025-01-02,North,Widget B,89.9,Online
+2025-01-03,East,Widget A,150.0,Offline
+2025-01-04,South,Widget C,200.0,Online
+2025-01-05,West,Widget B,50.0,Offline
+2025-01-06,North,Widget A,130.0,Online
+2025-01-07,East,Widget C,0,Offline
+2025-01-08,South,Widget B,99.5,Online
+2025-01-09,West,Widget A,175.0,Offline
+2025-01-10,North,Widget C,300.0,Online
